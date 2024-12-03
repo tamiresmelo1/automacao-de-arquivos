@@ -1,0 +1,5 @@
+# Excluindo arquivos e pastas temporárias
+__pycache__/
+*.log
+*.tmp
+*.zip
